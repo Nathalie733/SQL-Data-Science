@@ -1,6 +1,6 @@
 # Atividades
 
-## **1 Criação da tabela de clientes** 
+## **1. Criação da tabela de clientes** 
 
 
 ```sql
